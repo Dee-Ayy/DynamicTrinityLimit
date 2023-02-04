@@ -1,6 +1,6 @@
 title: Dynamic Trinity Limit
 originalAuthor: DA
-description: A lua script that makes Trinity Limit dynamically change depending on Donald and Goofy's HP. If one or both are down then Trinity limit will be changed to the solo Sora version otherwise Trinity Limit will funtion normally.
+description: A lua script that makes Trinity Limit dynamically change depending on Donald and Goofy's HP. If one or both are down then Trinity limit will be changed to the solo Sora version otherwise Trinity Limit will function normally.
 assets:
 - name: scripts/DynamicTrinity.lua
   package: kh2_first
